@@ -2,6 +2,6 @@
 
 <a href="https://github.com/jstrieb/github-stats">
 
-![](https://github.com/Lyzard-NS/Lyzard-NS/blob/master/generated/overview.svg)
-![](https://github.com/Lyzard-NS/Lyzard-NS/blob/master/generated/languages.svg)
+![](https://github.com/Lyzard-NS/Lyzard-NS/generated/overview.svg)
+![](https://github.com/Lyzard-NS/Lyzard-NS/generated/languages.svg)
 
